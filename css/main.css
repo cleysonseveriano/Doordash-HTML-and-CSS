@@ -29,6 +29,12 @@
     justify-content: space-around;
 
 }
+.options2{
+    width: 1184px;
+    display: flex;
+    justify-content: space-around;
+
+}
 
 .first-block{
     text-align: center;
@@ -53,6 +59,43 @@
     text-decoration: none;
     color: #EB1700;
     font-weight: 700;
+}
+
+
+.second-block{
+    color: #191919;  
+    margin: auto;
+}
+
+.second-block button{
+    width: 121px;
+    height: 40px;
+    margin-top: 20px;
+    border: 1px solid #EB1700;
+    border-radius: 25px;
+    background-color: #EB1700;
+    color: white;
+    padding: 10px;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 18px;
+}
+
+.second-block img{
+    width: 713px;
+    height: 514px;
+}
+
+.second-block h1{
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.second-block h4{
+    letter-spacing: -0.04ch;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
 }
 
 footer{
